@@ -20,6 +20,7 @@
 
 **Thanks**
 
+This mini-project was part of a FREE COURSE on Udacity: Programming Foundations with Python
 
 
 
